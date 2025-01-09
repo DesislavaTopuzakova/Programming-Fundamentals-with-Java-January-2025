@@ -1,0 +1,7 @@
+9. Sum of Odd Numbers (Basic Syntax, Conditional Statements and Loops - Lab)
+Видео: https://youtu.be/kouRiwgX2l4
+Решение: https://pastebin.com/P38mhmdi
+
+4. Time After 30 Minutes (Basic Syntax, Conditional Statements and Loops - Lab)
+Видео: https://youtu.be/s_1ObG7HQHM
+Решение: https://pastebin.com/quuhcsTe
