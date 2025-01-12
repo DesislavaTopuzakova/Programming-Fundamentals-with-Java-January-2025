@@ -17,7 +17,7 @@ public class Demo {
 //-----------------------------------
 //        String input = scanner.nextLine();
 //
-//        //кодим докато не ни се допи -> "conditions", "solve the problem", "code refactor", "sleep"
+//        //условие : кодим докато не ни се допи -> "conditions", "solve the problem", "code refactor", "sleep"
 //        //ако съм решил повече от 2 проблем -> отивам да си почивам
 //        int count = 0;
 //        while (!input.equals("sleep")) {
@@ -33,7 +33,7 @@ public class Demo {
 
 //-----------------------------------
 //        int number = Integer.parseInt(scanner.nextLine());
-//        //принтирам числата от 1 до number
+//        //условие : принтирам числата от 1 до number
 //        for (int i = 1; i <= number; i++) {
 //
 //            System.out.println(i);
@@ -42,7 +42,7 @@ public class Demo {
 
 
 //------------------------------------
-//        // намирам диаоазона на числото -> 2 , 5, 10
+//        // условие : намирам диаоазона на числото -> 2 , 5, 10
 //        if (number <= 2) {
 //            System.out.println("Number smaller or equal than 2");
 //        } else if (number <= 5) {
