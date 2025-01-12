@@ -14,7 +14,7 @@ public class Demo {
 //
 
 
-
+//-----------------------------------
 //        String input = scanner.nextLine();
 //
 //        //кодим докато не ни се допи -> "conditions", "solve the problem", "code refactor", "sleep"
@@ -31,7 +31,7 @@ public class Demo {
 //            input = scanner.nextLine();
 //        }
 
-
+//-----------------------------------
 //        int number = Integer.parseInt(scanner.nextLine());
 //        //принтирам числата от 1 до number
 //        for (int i = 1; i <= number; i++) {
