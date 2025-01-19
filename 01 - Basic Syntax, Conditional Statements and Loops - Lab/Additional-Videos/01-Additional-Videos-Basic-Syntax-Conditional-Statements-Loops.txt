@@ -5,3 +5,6 @@
 4. Time After 30 Minutes (Basic Syntax, Conditional Statements and Loops - Lab)
 Видео: https://youtu.be/s_1ObG7HQHM
 Решение: https://pastebin.com/quuhcsTe
+
+09. Padawan Equipment (Basic Syntax, Conditional Statements and Loops - Exercise)
+Видео: https://youtu.be/6--jkhQiI3c
